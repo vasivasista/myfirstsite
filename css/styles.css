@@ -85,7 +85,7 @@ p{
 }
 .pubg{
   float: left;
-  width: 30%;
+  width: auto;
 }
 /*skill row*/
 .skill-row{
